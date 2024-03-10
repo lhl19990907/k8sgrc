@@ -1,0 +1,1 @@
+FROM alibaba-cloud-linux-3-registry.cn-hangzhou.cr.aliyuncs.com/alinux3/mysql_optimized:20240221-8.0.32-2.3.0
